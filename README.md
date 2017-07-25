@@ -7,5 +7,5 @@ Also it has a search system which can search many in database tables.
 ## Used Technologies
 
 - [Chart.js](http://www.chartjs.org/)
-- PHP
+- [PHP](http://php.net/)
 - [jQuery](https://jquery.com/)
